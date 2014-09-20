@@ -44,4 +44,3 @@ cacheSolve <- function(x, ...) {
     x$setinverse(inv_x)
     inv_x
   }
-}
